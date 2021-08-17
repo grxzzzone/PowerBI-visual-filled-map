@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"k","email":"k"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/mapd334D188203DF2436E83A43C2C9A2E90C2.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"mapd3","displayName":"map_d3","guid":"mapd334D188203DF2436E83A43C2C9A2E90C2","visualClassName":"Visual","version":"1.0.0","description":"k","supportUrl":"k","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}

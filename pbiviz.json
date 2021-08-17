@@ -1,0 +1,25 @@
+{
+	"visual": {
+		"name": "mapd3",
+		"displayName": "map_d3",
+		"guid": "mapd334D188203DF2436E83A43C2C9A2E90C2",
+		"visualClassName": "Visual",
+		"version": "1.0.0",
+		"description": "Filled Map using ISO 3 letter State Code shows value",
+		"supportUrl": "k",
+		"gitHubUrl": ""
+	},
+	"apiVersion": "3.8.0",
+	"author": {
+		"name": "Tu Xu",
+		"email": "xutu2017@gmail.com"
+	},
+	"assets": {
+		"icon": "assets/icon.png"
+	},
+	"externalJS": [],
+	"style": "style/visual.less",
+	"capabilities": "capabilities.json",
+	"dependencies": null,
+	"stringResources": []
+}
