@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "author": {"name":"k","email":"k"},
+    "author": {"name":"Tu Xu","email":"xutu2017@gmail.com"},
     "resources": [
         {
             "resourceId": "rId0",
@@ -8,7 +8,7 @@
             "file": "resources/mapd334D188203DF2436E83A43C2C9A2E90C2.pbiviz.json"
         }
     ],
-    "visual": {"name":"mapd3","displayName":"map_d3","guid":"mapd334D188203DF2436E83A43C2C9A2E90C2","visualClassName":"Visual","version":"1.0.0","description":"k","supportUrl":"k","gitHubUrl":""},
+    "visual": {"name":"mapd3","displayName":"map_d3","guid":"mapd334D188203DF2436E83A43C2C9A2E90C2","visualClassName":"Visual","version":"1.0.0","description":"Filled Map using ISO 3 letter State Code shows value","supportUrl":"k","gitHubUrl":""},
     "metadata": {
         "pbivizjson": {
             "resourceId": "rId0"
